@@ -1,8 +1,8 @@
 # ignews
-Chalenge by rocketseat:
+Chalenge by rocketseat: <br/>
 https://www.figma.com/file/gl0fHkQgvaUfXNjuwGtDDs/ig.news/duplicate
 
-Installing Instructions:
+<h3>Installing Instructions:</h3>
 
 1- Install Node
 https://nodejs.org/en/
