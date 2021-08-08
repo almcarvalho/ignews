@@ -34,7 +34,8 @@ STRIPE_API_KEY=<pegar lá a chave secreta do stripe, que é a solução de pagam
 
 
 
-Controle de versões:
+<h3>Controle de versões:</h3> <br/>
+
 "version": "0.1.0" --> Design das telas e dos botões, Integração stripe leitura do preço.
 
 "version": "0.2.0" --> Integração com github e botão comprar funcionando
