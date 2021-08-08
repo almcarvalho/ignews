@@ -1,5 +1,6 @@
 # ignews
-Chalenge by rocketseat
+Chalenge by rocketseat:
+https://www.figma.com/file/gl0fHkQgvaUfXNjuwGtDDs/ig.news/duplicate
 
 Installing Instructions:
 
