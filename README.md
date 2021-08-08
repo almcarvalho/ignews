@@ -2,6 +2,10 @@
 Chalenge by rocketseat: <br/>
 https://www.figma.com/file/gl0fHkQgvaUfXNjuwGtDDs/ig.news/duplicate
 
+![image](https://user-images.githubusercontent.com/5290949/128647820-1b91aab7-4833-4e6f-8cb9-a942262abd08.png)
+
+PS: Aproveitei o design para fazer uma venda de verdade futuramente... 
+
 <h3>Installing Instructions:</h3>
 
 1- Install Node
